@@ -172,7 +172,7 @@ All errors produce descriptive messages and exit with code 1.
 
 ---
 
-## ○ Choosing Between Versions
+## ⊚ Choosing Between Versions
 
 ### Use the Bash version when:
 - Working primarily on Unix/Linux/macOS systems
